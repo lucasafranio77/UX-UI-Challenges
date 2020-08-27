@@ -10,11 +10,11 @@ The main purpose of the repository is to test your knowledge using UX/UI challen
 
 So collaborate with this project by sending the challenge that your company uses or has used, and thus help more professionals to be more prepared for the market.
 
-| Lang | Company | Challenge | Linkedin |
-|:----:|:-------:|:---------:|:--------:|
-|      |         |           |          |
-|      |         |           |          |
-|      |         |           |          |
+| Lang | Company | Challenge | Senioridade | Site | Linkedin |
+|:----:|:-------:|:---------:|:-----------:|:----:|:--------:|
+|      |         |           |             |      |          |
+|      |         |           |             |      |          |
+|      |         |           |             |      |          |
 
 ## **License**
 
